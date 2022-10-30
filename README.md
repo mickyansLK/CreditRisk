@@ -1,2 +1,0 @@
-# CreditRisk
-Credit Classification
